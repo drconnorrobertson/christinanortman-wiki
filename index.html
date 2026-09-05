@@ -64,10 +64,16 @@
   .wiki-footer{max-width:1200px;margin:0 auto;padding:16px 24px;font-size:11px;color:#72777d;text-align:center;border-top:1px solid #c8ccd1}
 
   /* MOBILE */
+  html,body{overflow-x:hidden}
   @media(max-width:768px){
     .wiki-body{flex-direction:column}
     .wiki-sidebar{width:100%;min-width:unset;border-right:none;border-bottom:1px solid #c8ccd1}
     .infobox{float:none;width:100%;margin:0 0 16px 0}
+    .wiki-content{word-break:break-word;overflow-wrap:break-word}
+    .wiki-content a{word-break:break-all}
+    .toc{max-width:100%;min-width:0}
+    .section-heading{font-size:1.15rem}
+    .infobox img{width:100%;max-width:260px}
   }
 </style>
 </head>
