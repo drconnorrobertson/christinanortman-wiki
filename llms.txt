@@ -1,0 +1,11 @@
+# Christina Nortman Wiki
+> Encyclopedia-style reference article about Christina Nortman, CPA and tax advisor.
+
+## About
+This is a wiki-style reference page for Christina Nortman, a Certified Public Accountant who leads AE Tax Advisors' Northeast region. The page covers her professional background, credentials, areas of expertise in tax planning and cost segregation, and career history.
+
+## Key Pages
+- Home: https://christinanortman-wiki.vercel.app/
+
+## Contact
+- Book a discovery call with AE Tax Advisors: https://aetaxadvisors.com/discovery
