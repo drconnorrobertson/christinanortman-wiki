@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://christinanortman-wiki.vercel.app/sitemap.xml
+
+Sitemap: https://www.christinanortman.wiki/sitemap.xml
